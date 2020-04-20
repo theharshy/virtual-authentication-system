@@ -1,0 +1,1 @@
+const getAccess = document.getElementById('access')
